@@ -1,0 +1,1 @@
+main.adb:12:10: warning: "current" may be referenced before it has a value [enabled by default]
