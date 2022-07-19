@@ -1,4 +1,4 @@
-# Project-Euler-Even-Fibonacci-Numbers-ADA
+# Project-Euler-2-Even-Fibonacci-Numbers-ADA
 
 My solution to the project Euler problem multiples of 3 and 5 using the ADA programming language which is similar to C++
 
